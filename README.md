@@ -1,7 +1,7 @@
 📈 Real-Time Anomaly Detection Dashboard
 A fully interactive web application built with Streamlit that simulates and visualizes a live time-series data stream, allowing for real-time anomaly detection using multiple algorithms.
 
-➡️ View the Live Demo Here (<- Replace with your Streamlit Cloud link)
+➡️ [View the Live Demo Here](https://app-anomaly-dashboard-yxhdp6vafbuveg5rucbtrh.streamlit.app/)
 
 It's highly recommended to add a screenshot or an animated GIF of your app in action here.
 
@@ -36,8 +36,8 @@ Prerequisites: Ensure you have Python 3.8+ installed.
 
 Clone the Repository:
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/Moqo12/streamlit-anomaly-dashboard.git](https://github.com/Moqo12/streamlit-anomaly-dashboard.git)
+cd streamlit-anomaly-dashboard
 
 Set up a Virtual Environment (Recommended):
 
@@ -60,10 +60,6 @@ streamlit run app.py
 The application will open in your default web browser.
 
 ☁️ Deployment
-This application is ready for deployment on Streamlit Community Cloud. Simply:
-
-Push the project (including app.py, requirements.txt, and this README.md) to a public GitHub repository.
-
-Sign up or log in to Streamlit Cloud.
+This application is deployed and live on Streamlit Community Cloud.
 
 Link your GitHub repository and deploy.
