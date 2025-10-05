@@ -41,12 +41,13 @@ cd streamlit-anomaly-dashboard``
 
 Set up a Virtual Environment (Recommended):
 
-`` For macOS / Linux:
-python3 -m venv venv
+For macOS / Linux:
+``python3 -m venv venv
 source venv/bin/activate 
 ``
-``
+
 For Windows:
+``
 python -m venv venv
 venv\Scripts\activate``
 
